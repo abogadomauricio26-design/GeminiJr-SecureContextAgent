@@ -1,0 +1,5 @@
+{
+  "name": "Legal History AI",
+  "description": "An intelligent legal case timeline and query application powered by Gemini. Users can input case events, which are processed and structured by AI, and then ask natural language questions about the case history.",
+  "requestFramePermissions": []
+}
